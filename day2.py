@@ -1,5 +1,4 @@
-#Python Dictionaries
-
+#Python Dictionaries - like js object
 friends = {
     'name': 'Utsab',
     'age': 22 
@@ -11,6 +10,7 @@ if 'name' in friends:
 
 del friends['age']
 
+# adding new key in Dictionaries
 friends['isNepali']=True
 friends['address']="Nepal"
 
@@ -18,8 +18,6 @@ friends['address']="Nepal"
 print(friends['isNepali'])
 
 print(friends.keys(), friends.values())
-
-
 
 #Python Tuple = immutable, can't change anything
 my_typle = (1,2,3, "bishal", 3.14)
