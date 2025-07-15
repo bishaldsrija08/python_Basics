@@ -19,7 +19,7 @@ print(f"My first name is {first_name} {sir_name}.")
 print("My first name is {} {}.".format(first_name,sir_name))
 
 
-# Lis
+# Lis - line an  array
 friends = ["Bob Marly", "Nick", "Saugat", "Sujan", "Jagrit", True,"Bob Marly", "Nick", "Saugat", "Sujan", "Jagrit", True]
 friends.insert(1,"k xa")
 friends.append("hii")
