@@ -11,19 +11,15 @@ def add(a,b):
 result = add(4,5)
 print(result)
 
-# Lambda function in python
+# Lambda function in python like anonymous in JS
 add = lambda a,b: a+b
 print(add(5,6))
 
-
-
 def test(*args):
     for arg in args:
-        print (arg)
-    
+        print (arg)   
     
 test(2,3,4)
-
 
 def is_even(num):
     return num%2==0
