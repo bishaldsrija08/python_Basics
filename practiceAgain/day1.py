@@ -1,0 +1,5 @@
+print("Bishal\nRijal")
+print("Bishal\tRijal")
+print('Bishal\'s students are very good.')
+print("\"Bishals\" students are very good.")
+print("Bishal\\Rijal")
