@@ -34,12 +34,16 @@ txt = "The best things in life are free!"
 print("free" in txt) #Return true or false 
 
 
-if "frdghee" in txt: #"free" in txt returns true or false
-    print("Free xa!")
+if "free" not in txt: #"free" in txt returns true or false
+    print("Free xainwwwwww!")
 else:
-    print("xaina")
+    print("xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 
 # Check if NOT
 
 if "freeyukh" not in txt: #"free" in txt returns true or false
     print("Free xaina!")
+
+x = int('4')
+print(x)
+print(type(x))
