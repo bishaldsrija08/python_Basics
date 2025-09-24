@@ -1,0 +1,12 @@
+{
+    "name": "Bishal Rijal",
+    "age": 24,
+    "city": "Chitwan",
+    "hobbies": [
+        "coding",
+        "reading",
+        "travelling"
+    ],
+    "is_student": false,
+    "school": "Green Society Public School"
+}
