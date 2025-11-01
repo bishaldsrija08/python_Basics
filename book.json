@@ -1,4 +1,4 @@
-[{
+{
     "title": "Python",
     "author": "Bishal Rijal",
     "year": "2025",
@@ -6,8 +6,7 @@
     "publisher": "Rijal LLC",
     "genre": "Education",
     "pages": "200"
-},
-{
+},{
     "title": "Node JS",
     "author": "Bishal R.",
     "year": "2021",
@@ -15,4 +14,12 @@
     "publisher": "Rijal LLC publication",
     "genre": "Comedy",
     "pages": "300"
-}]
+}, {
+    "title": "c",
+    "author": "d",
+    "year": "s",
+    "isbn": "e",
+    "publisher": "r",
+    "genre": "t",
+    "pages": "d"
+}
